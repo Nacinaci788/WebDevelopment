@@ -1,0 +1,27 @@
+element.style {}
+
+@media (min-width: 768px) .css-1r991au-navigationBar {
+  padding: 0 24px;
+}
+
+.css-1r991au-navigationBar {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 64px;
+  padding: 0 30px;
+}
+
+user agent stylesheet div {
+  display: block;
+}
+
+<style>body {
+  font-family: "Capsule Sans Text", sans-serif;
+  margin: 0px;
+}
